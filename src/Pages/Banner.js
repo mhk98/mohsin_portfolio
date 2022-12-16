@@ -40,7 +40,7 @@ const Banner = () => {
             {" "}
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1sTyafWWH03eBEFmf5RbNVWy5z2lOqxmT/view?usp=sharing"
+              href="https://drive.google.com/file/d/1UfS4EKbsS70ZlP_76A6DMhun3a0XeqRv/view?usp=sharing"
             >
               Download Resume
             </a>

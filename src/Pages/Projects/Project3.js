@@ -37,10 +37,10 @@ const Project3 = () => {
             On our platform institutions can upload online courses and take live
             classes.
           </li>
-          <li>Parents may see course materials and take the assessment test.</li>
           <li>
-          Parents can give their valuable feedback on our platform.
+            Parents may see course materials and take the assessment test.
           </li>
+          <li>Parents can give their valuable feedback on our platform.</li>
         </div>
         <div className="mt-4">
           <h2>Technology</h2>
@@ -54,10 +54,7 @@ const Project3 = () => {
         <div className="border border-primary mt-2"></div>
         <div className="mt-4">
           <button className="btn border-2 border-primary mr-4">
-            <a
-              target="_blank"
-              href="https://effulgent-raindrop-0613dd.netlify.app/"
-            >
+            <a target="_blank" href="https://autismcarenetwork.netlify.app/">
               Live Website
             </a>{" "}
           </button>
